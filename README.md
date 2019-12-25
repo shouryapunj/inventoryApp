@@ -1,1 +1,1 @@
-# inventoryApp v1.0 -shouryapunj
+# InventoryApp v1.0
